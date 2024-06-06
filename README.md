@@ -7,11 +7,11 @@ The dataset used in this project is the Human Resources data which includes feat
 # Installation
 To run this project, you need to have Python installed along with the following libraries:
 
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
+pandas,
+numpy,
+seaborn,
+matplotlib,
+scikit-learn,
 tensorflow (for deep learning)
 # Data Preprocessing
 Converted categorical columns like 'Attrition' and 'OverTime' into numerical values.
@@ -26,6 +26,6 @@ Analyzed correlations between features and generated a heatmap.
 # Modeling
 We implemented and compared the performance of three models:
 
-Logistic Regression
-Random Forest Classifier
+Logistic Regression,
+Random Forest Classifier,
 Deep Learning Model using TensorFlow
